@@ -1,4 +1,5 @@
 #!/usr/bin/python3
-for ch in range(97, 123):
-        if ch != 101 and ch != 113:
-                print("{:c}".format(ch))
+for c in range(ord('a'), ord('{')):
+    if c != ord('e'):
+        if c != ord('q'):
+            print("{:c}".format(c), end="")

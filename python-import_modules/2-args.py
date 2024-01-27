@@ -2,7 +2,7 @@
 from sys import argv
 
 if __name__ == "__main__":
-    argc = len(argv) - 1  # Number of arguments excluding the script name
+    argc = len(argv) - 1 
 
     if argc == 0:
         print("0 arguments.")

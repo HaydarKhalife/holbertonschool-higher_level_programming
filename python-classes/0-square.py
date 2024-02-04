@@ -1,10 +1,8 @@
 #!/usr/bin/python3
-"""Square Class
-
-This class don't do anything for the moment
-
-"""
+'''an empty class called square is initialized'''
 
 
 class Square:
+    '''the keyword 'pass' is used to indicate
+    that the class will have no instructions'''
     pass
